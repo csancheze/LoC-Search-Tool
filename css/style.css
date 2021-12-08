@@ -1,0 +1,10 @@
+#search-box {
+    padding-top: 25%;
+}
+body {
+    background-color: rgb(56, 56, 56);
+}
+
+main {
+    min-height: 100vh;
+}
